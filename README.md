@@ -1,5 +1,5 @@
 # Crossai - AI Crossword Puzzles 🧩
-Welcome to Crossai 🤖, a collection of interactive crossword puzzles designed to challenge your knowledge of artificial intelligence concepts. Whether you're a beginner or an expert in AI, these puzzles will test your understanding of popular frameworks and libraries like TensorFlow, PyTorch, and Scikit-Learn, as well as key concepts in machine learning, deep learning, and natural language processing 📈.
+Welcome to Crossai 🤖, a collection of interactive crossword puzzles designed to challenge your knowledge in various scientific areas. Whether you're a beginner or an expert, these puzzles will test your understanding of key concepts and theories, as well as popular frameworks and tools. This repository covers subjects such as Machine Learning, Artificial Intelligence, Mathematics, Networks, and many others!
 
 ## How to Play 📌
 To get started, simply clone or download this repository and open any of the crossword puzzles in your favorite text editor or word processor. Each puzzle is represented as a text file, with clues and answers listed in a specific format.
@@ -20,4 +20,4 @@ We welcome contributions to Crossai! This is an ongoing project and we need your
 Crossai is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 📖
-Crossai is inspired by the many books, crossword, puzzles, and word games out there that challenge the mind and promote learning. We hope you enjoy playing these puzzles as much as we enjoyed creating them! 🎉
+Crossai is inspired by the many books, crosswords, puzzles, and word games out there that challenge the mind and promote learning. We hope you enjoy playing these puzzles as much as we enjoyed creating them! 🎉
