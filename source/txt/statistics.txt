@@ -1,0 +1,12 @@
+Probability and statistics: Provides a framework for designing and interpreting learning algorithms.
+Random variables: Can take on uncertain values.
+Bayes theorem: A key theorem in probability that tells you how to calculate a probability given certain events, and it can lead to non-intuitive results.
+Maximum likelihood estimation: A method used in machine learning to find the model that most likely gave the data.
+Gaussian distribution: One of the most popular distributions out there, and it has a square that comes out of maximum likelihood estimation.
+Squared error: This error comes out of maximum likelihood estimation because you are picking points out of a Gaussian distribution.
+Regularization: Can come out of probability when considering the probability of the model, not just the data given the model.
+Hypothesis testing: Important for determining if a drug is helpful or if a particular feature in a web page actually increases viewership.
+Confidence interval: Helps generate accurate scientific conclusions.
+Discrete random variable: Can take a countable number of values that can be listed.
+Continuous random variable: Can take values on an entire interval and cannot be listed.
+Deterministic variable: Takes the same fixed value, unlike a random variable which has an uncertain outcome.
